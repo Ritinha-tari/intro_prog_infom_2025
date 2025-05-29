@@ -5,15 +5,21 @@ Passo a passo:
 
 Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
 
+Refinamento:
 Passo a passo:
 (1) Entrada: dois números inteiros.
 (2) Saída: NADA
-(3) Processamento: cálculo da soma destes dois números inteiros 
+(3) Processamento: cálculo da soma de dois números inteiros 
 
 1. Leia/ Pegue os valores desses dois números;
 2. O resultado será a soma desse dois números;
 
 Q2 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
+
+Passo a passo:
+(1) Entrada: dois números inteiros.
+(2) Saída: NADA
+(3) Processamento: cálculo da soma destes dois números inteiros
 
 1. Leia/ Pegue os valores desses dois números;
 2. O resultado será a soma desse dois números;
@@ -23,11 +29,15 @@ Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteir
 número e mostre e resultado.
 
 Passo a passo:
-(1) Entrada: dois números inteiros 'a' e 'b';
+(1) Entrada: dois números inteiros [a] e [b];
 (2) Saída: Resultado da soma de 'a' e 'b'
 (3) Processamento: cálculo da soma de 'a' mais 'b' 
-
 
 1. Leia/ Pegue os valores de 'a' e 'b'
 2. O resultado será a soma de 'a' mais 'b';
 3. Mostre o resultado desta soma.
+
+Refinamento:
+1. Leia/ Pegue os valores de [a] e [b];
+2. O [resultado] = [a] + [b];
+3. Mostre o [resultado]. 
