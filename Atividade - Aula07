@@ -1,1 +1,19 @@
 Algoritmo - Resolvendo problemas(Subtração, multiplicação e divisão)
+
+Questão 1: Calcule a subtração entre dois números inteiros e mostre o resultado.
+
+(1) Leia e pegue o valor de [a] e [b];
+(2) O [resultado] = [a] - [b];
+(3) Mostre o [resultado].
+
+Questão 2: Calcule a multiplicação entre dois números inteiros e mostre o resultado.
+
+(1) Leia e pegue o valor de [a] e [b];
+(2) O [resultado] = [a] × [b];
+(3) Mostre o [resultado].
+
+Questão 3: Calcule a divisão entre dois números inteiros e mostre o resultado.
+
+(1) Leia e pegue o valor de [a] e [b];
+(2) O [resultado] = [a] ÷ [b];
+(3) Mostre o [resultado].
